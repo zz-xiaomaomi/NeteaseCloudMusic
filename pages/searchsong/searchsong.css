@@ -1,0 +1,41 @@
+.play {
+	padding-top: 20upx;
+	height: 84upx;
+}
+
+.play-img {
+	padding-left: 20upx;
+	padding-right: 20upx;
+	width: 25px;
+	height: 25px;
+	float: left;
+}
+
+.play-name {
+	padding-top: 4upx;
+}
+
+.song {
+	padding-left: 20upx;
+	padding-bottom: 20upx;
+}
+
+.song-name {
+	width: 600upx;
+}
+
+.name {
+	font-size: 16px;
+	font-weight: 500;
+	color: #505050;
+}
+
+.msg {
+	font-size: 12px;
+	color: #ababab;
+	margin-top: 10upx;
+	width: 450upx;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
